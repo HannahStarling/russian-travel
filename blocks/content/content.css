@@ -1,0 +1,16 @@
+.content {
+    display: grid;
+    gap: 92px;
+}
+
+@media all and (min-width: 426px) and (max-width: 1023px) {
+    .content {
+        gap: 88px;
+    }
+}
+
+@media all and (max-width: 425px) {
+    .content {
+        gap: 64px;
+    }
+}
