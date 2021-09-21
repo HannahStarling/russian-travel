@@ -1,0 +1,18 @@
+.cover {
+    margin: 0 auto;
+    min-height: 62.5vw;
+    width: calc(100% - 48px * 2);
+    max-width: 1184px;
+}
+
+@media all and (max-width: 1024px) {
+    .cover {
+        width: 100%;
+    }
+}
+
+@media all and (min-width: 1184px) {
+    .cover {
+        min-height: 740px;
+    }
+}
