@@ -16,7 +16,6 @@
 @import url(../blocks/lang-links/__lang-link/_active/lang-links__lang-link_active.css);
 
 /* lead */
-@import url(../blocks/lead/lead.css);
 @import url(../blocks/lead/__title/lead__title.css);
 @import url(../blocks/lead/__subtitle/lead__subtitle.css);
 @import url(../blocks/lead/__figure/lead__figure.css);
@@ -59,7 +58,5 @@
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 
-@import url(../blocks/nav/nav.css);
-@import url(../blocks/nav/__item/nav__item.css);
 @import url(../blocks/nav/__links/nav__links.css);
 @import url(../blocks/nav/__link/nav__link.css);
