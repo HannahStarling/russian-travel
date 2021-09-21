@@ -1,0 +1,20 @@
+.places__grid-text {
+    display: grid;
+    grid-template-rows: repeat(2, min-content);
+    grid-template-columns: minmax(min-content, max-content);
+    gap: 26px;
+    font-weight: normal;
+}
+
+@media screen and (max-width: 768px) {
+    .places__grid-text {
+        gap: 25px; /* возможно ошибка макета и везде gap: 26px; */
+    }
+}
+
+@media all and (max-width: 425px) {
+    .places__grid-text {
+        width: 90vw;
+        margin: 0 auto;
+    }
+}
