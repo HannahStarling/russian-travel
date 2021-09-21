@@ -20,7 +20,7 @@
     }
 }
 
-@media all and (max-width: 425px) {
+@media all and (max-width: 680px) {
     .places__title {
         font-size: 10vw;
         line-height: 1.09;

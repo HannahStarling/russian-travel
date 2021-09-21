@@ -12,7 +12,7 @@
     }
 }
 
-@media all and (max-width: 425px) {
+@media all and (max-width: 680px) {
     .places__grid-text {
         width: 90vw;
         margin: 0 auto;
