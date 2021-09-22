@@ -3,15 +3,14 @@
     font-style: normal;
     font-weight: normal;
     font-size: 10px;
-    line-height: 14px;
-    /* identical to box height, or 140% */
+    line-height: 1.4;
     letter-spacing: 1.5px;
     text-transform: uppercase;
 }
 
 @media all and (max-width: 768px) {
     .lead__caption {
-        margin-left: 3.13vw;
+        margin-left: 3.125vw;
     }
 }
 
