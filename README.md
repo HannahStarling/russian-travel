@@ -1,5 +1,6 @@
 # Путешествие по России / landing / Проектная работа для ЯндексПрактикум
 
+-   [Ссылка на сайт](https://hannahstarling.github.io/russian-travel/)
 -   [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
 ## Стек технологий
@@ -11,8 +12,8 @@
 
 -   Технология построения сеток:
 
-*   Flexbox
-*   Grid Layout
+_Flexbox_
+_Grid Layout_
 
 -   БЭМ вёрстка / Организация файлов БЭМ Nested
 -   Адаптивная вёрстка (с "резиновыми" элементами)
