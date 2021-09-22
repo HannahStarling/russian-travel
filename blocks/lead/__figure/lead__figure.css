@@ -1,6 +1,7 @@
 .lead__figure {
     margin: 0 auto;
     width: 76.88vw;
+    max-width: 984px;
 }
 
 @media all and (max-width: 1024px) {
