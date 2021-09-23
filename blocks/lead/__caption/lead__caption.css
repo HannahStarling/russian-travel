@@ -1,19 +1,19 @@
 .lead__caption {
-    font-weight: normal;
-    font-size: 10px;
-    line-height: 1.4;
-    letter-spacing: 1.5px;
-    text-transform: uppercase;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 1.4;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
 }
 
 @media all and (max-width: 768px) {
-    .lead__caption {
-        margin-left: 3.125vw;
-    }
+  .lead__caption {
+    margin-left: 3.125vw;
+  }
 }
 
 @media all and (max-width: 425px) {
-    .lead__caption {
-        margin-left: 5vw;
-    }
+  .lead__caption {
+    margin-left: 5vw;
+  }
 }

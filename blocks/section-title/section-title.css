@@ -1,14 +1,14 @@
 .section-title {
-    font-weight: 900;
-    font-size: 54px;
-    line-height: 1.07;
-    margin: 0 0 40px;
-    max-width: 690px;
+  font-weight: 900;
+  font-size: 54px;
+  line-height: 1.07;
+  margin: 0 0 40px;
+  max-width: 690px;
 }
 
 @media all and (max-width: 425px) {
-    .section-title {
-        font-size: 32px;
-        line-height: 1.09;
-    }
+  .section-title {
+    font-size: 32px;
+    line-height: 1.09;
+  }
 }

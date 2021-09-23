@@ -65,3 +65,7 @@
 
 @import url(../blocks/nav/__links/nav__links.css);
 @import url(../blocks/nav/__link/nav__link.css);
+
+* {
+  outline: 1px solid red;
+}

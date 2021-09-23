@@ -1,37 +1,37 @@
 .lead__title {
-    font-weight: 900;
-    font-size: 96px;
-    line-height: 1.04;
-    text-align: center;
-    max-width: 720px;
-    margin: 0 auto 32px;
+  font-weight: 900;
+  font-size: 96px;
+  line-height: 1.04;
+  text-align: center;
+  max-width: 720px;
+  margin: 0 auto 32px;
 }
 
 @media all and (max-width: 1280px) {
-    .lead__title {
-        font-size: 7.5vw;
-        max-width: 56.25vw;
-    }
+  .lead__title {
+    font-size: 7.5vw;
+    max-width: 56.25vw;
+  }
 }
 
 @media all and (max-width: 1024px) {
-    .lead__title {
-        font-size: 9.375vw;
-        max-width: 70.3125vw;
-    }
+  .lead__title {
+    font-size: 9.375vw;
+    max-width: 70.3125vw;
+  }
 }
 
 @media all and (max-width: 768px) {
-    .lead__title {
-        font-size: 12.5vw;
-        max-width: 93.75vw;
-    }
+  .lead__title {
+    font-size: 12.5vw;
+    max-width: 93.75vw;
+  }
 }
 
 @media all and (max-width: 672px) {
-    .lead__title {
-        margin: 0 auto 16px;
-        line-height: 1.1;
-        max-width: 90vw;
-    }
+  .lead__title {
+    margin: 0 auto 16px;
+    line-height: 1.1;
+    max-width: 90vw;
+  }
 }
