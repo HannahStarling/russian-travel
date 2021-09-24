@@ -6,12 +6,12 @@
 
 @media all and (max-width: 1024px) {
   .lead__figure {
-    width: calc(100vw - 48px * 2);
+    width: calc(100% - 48px * 2);
   }
 }
 
 @media all and (max-width: 768px) {
   .lead__figure {
-    width: 100vw;
+    width: 100%;
   }
 }

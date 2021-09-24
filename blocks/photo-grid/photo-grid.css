@@ -3,7 +3,7 @@
   margin: 0 auto;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  grid-gap: 16px;
+  gap: 16px;
 }
 
 @media all and (max-width: 1024px) {
@@ -22,5 +22,6 @@
   .photo-grid {
     grid-template-columns: repeat(1, 1fr);
     width: 90vw;
+    gap: 12px;
   }
 }
