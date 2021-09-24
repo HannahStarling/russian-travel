@@ -1,4 +1,4 @@
-.cover__overlay {
+.cover__link {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -11,7 +11,7 @@
   text-decoration: none;
 }
 
-.cover__overlay::before {
+.cover__link::before {
   content: "";
   position: absolute;
   top: 0;
@@ -23,6 +23,6 @@
   transition: opacity 0.3s ease-in-out;
 }
 
-.cover__overlay:hover::before {
+.cover__link:hover::before {
   opacity: 0.8;
 }

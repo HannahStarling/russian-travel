@@ -30,9 +30,9 @@
 @import url(../blocks/section-title/section-title.css);
 
 @import url(../blocks/intro/__subtitle/intro__subtitle.css);
-@import url(../blocks/facts-list/facts-list.css);
-@import url(../blocks/facts-list/___item/facts-list__item.css);
-@import url(../blocks/span-accent/span-accent.css);
+@import url(../blocks/intro/__items/intro__items.css);
+@import url(../blocks/intro/__item/intro__item.css);
+@import url(../blocks/intro/__span-accent/intro__span-accent.css);
 
 /* photo-grid */
 @import url(../blocks/photo-grid/photo-grid.css);
@@ -57,7 +57,7 @@
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__title/cover__title.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
-@import url(../blocks/cover/__overlay/cover__overlay.css);
+@import url(../blocks/cover/__link/cover__link.css);
 
 /* footer */
 @import url(../blocks/footer/footer.css);
