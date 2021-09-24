@@ -6,6 +6,7 @@
   min-height: inherit;
   background: url(../../../images/cover/cover-trains.jpg) no-repeat center;
   background-size: cover;
+  min-height: 62.5vw;
   position: relative;
   color: #fff;
   text-decoration: none;
