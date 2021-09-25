@@ -11,6 +11,12 @@
   text-decoration: none;
 }
 
+@media screen and (min-width: 1184px) {
+  .cover__link {
+    min-height: 740px;
+  }
+}
+
 .cover__link::before {
   content: "";
   position: absolute;
